@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "65620295266",
+    "project_id": "fir-authencation-990ce",
+    "storage_bucket": "fir-authencation-990ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65620295266:android:17bc7e9aaf14207cf5db3b",
+        "android_client_info": {
+          "package_name": "com.authencation.firebaseemailpasswordauthencation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65620295266-b2bjkg2eqj63c670t8stii767qv58hd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC78_aweWUwyQ8a_a67gotkOA9YF68qrh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65620295266-b2bjkg2eqj63c670t8stii767qv58hd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
